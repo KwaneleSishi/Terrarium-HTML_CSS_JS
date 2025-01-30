@@ -117,3 +117,12 @@ h1 {
 .plant {
 	animation: slide-in 2s ease-in;
 }
+
+.plant {
+	transition: width 2s, height 2s, background-color 1s;
+}
+.plant:hover {
+	width: 200px;
+	height: 200px;
+	background-color: goldenrod;
+}
