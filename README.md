@@ -14,3 +14,6 @@
   - How HTML, CSS, and JavaScript work together to build a web page.
   - The use of CSS for styling and layout, including positioning elements on the page.
   - The concept of responsiveness and interactivity added by JavaScript.
+
+- **View:**
+    (https://kwanelesishi.github.io/Terrarium-HTML_CSS_JS/)
